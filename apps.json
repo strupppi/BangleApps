@@ -2435,7 +2435,7 @@
     "name": "Crossminton Score Counting",
     "shortName":"Crossminton",
     "icon": "crosscount.png",
-    "version":"0.03",
+    "version":"0.04",
     "description": "Keep track of your score during crossminton matches",
     "tags": "",
     "allow_emulator":true,
