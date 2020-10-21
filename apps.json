@@ -2435,9 +2435,10 @@
     "name": "Crossminton Score Counting",
     "shortName":"Crossminton",
     "icon": "crosscount.png",
-    "version":"0.01",
+    "version":"0.02",
     "description": "Keep track of your score during crossminton matches",
     "tags": "",
+    "allow_emulator":true,
     "storage": [
       {"name":"crosscount.app.js","url":"app.js"},
       {"name":"crosscount.img","url":"app-icon.js","evaluate":true}
