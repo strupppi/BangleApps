@@ -10,5 +10,6 @@ Bangle.on('lcdPower', (on) => {
 
 g.clear();
 // call your app function here
-E.showMessage("Crossminton\nScore\nCounting\nApp","Crosscount")
+E.showMessage("Crossminton\nScore\nCounting\nApp","Crosscount");
+
 
