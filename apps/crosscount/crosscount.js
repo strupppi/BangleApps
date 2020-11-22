@@ -1,15 +1,18 @@
 // place your const, vars, functions or classes here
 
 // special function to handle display switch on
-Bangle.on('lcdPower', (on) => {
-  if (on) {
+//Bangle.on('lcdPower', (on) => {
+//  if (on) {
     // call your app function here
     // If you clear the screen, do Bangle.drawWidgets();
-  }
-});
-
+//  }
+//});
+//
 g.clear();
 // call your app function here
-E.showMessage("Crossminton\nScore\nCounting\nApp","Crosscount");
+E.showMessage("Crossminton Score","Crosscount");
+
+var score1 = 0;
+var score2 = 0;
 
 
